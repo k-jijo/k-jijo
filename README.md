@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm Katherine Jijo! 
+### Hi I'm Katherine Jijo! 👋
 
 👀 I’m interested in machine learning, artificial intelligence, and building innovative software solutions. I'm passionate about the problem solving within the intersection of machine learning and software engineering.
 
